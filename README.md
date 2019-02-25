@@ -1,2 +1,2 @@
-# Front-technology
-## 杂七杂八的项的整理
+# Web_Front-technology
+## web前端基础知识的整理
