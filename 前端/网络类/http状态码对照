@@ -1,0 +1,1 @@
+[http状态码对照表](http://tool.oschina.net/commons?type=5)
