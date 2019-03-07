@@ -6,4 +6,8 @@
 
 [数组扁平化的几种实现方式](https://www.cnblogs.com/wind-lanyan/p/9044130.html)  
 
-[JavaScript专题之数组扁平化](https://segmentfault.com/a/1190000010287443)
+[JavaScript专题之数组扁平化](https://segmentfault.com/a/1190000010287443)  
+
+[react-router的实现原理](https://segmentfault.com/a/1190000004527878)  
+
+[React-Router中文文档](http://react-guide.github.io/react-router-cn/docs/Introduction.html)
