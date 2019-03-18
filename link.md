@@ -10,4 +10,6 @@
 
 [react-router的实现原理](https://segmentfault.com/a/1190000004527878)  
 
-[React-Router中文文档](http://react-guide.github.io/react-router-cn/docs/Introduction.html)
+[React-Router中文文档](http://react-guide.github.io/react-router-cn/docs/Introduction.html)  
+
+[浏览器缓存知识小结及应用](http://www.cnblogs.com/lyzg/p/5125934.html?f=t)
