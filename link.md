@@ -14,4 +14,6 @@
 
 [浏览器缓存知识小结及应用](http://www.cnblogs.com/lyzg/p/5125934.html?f=t)  
 
-[JS基本数据类型和引用数据类型的区别及深浅拷贝](https://www.cnblogs.com/c2016c/articles/9328725.html)
+[JS基本数据类型和引用数据类型的区别及深浅拷贝](https://www.cnblogs.com/c2016c/articles/9328725.html)  
+
+[typeof与instanceof的区别](https://www.cnblogs.com/Trr-984688199/p/6180040.html)
