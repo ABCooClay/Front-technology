@@ -16,4 +16,6 @@
 
 [JS基本数据类型和引用数据类型的区别及深浅拷贝](https://www.cnblogs.com/c2016c/articles/9328725.html)  
 
-[typeof与instanceof的区别](https://www.cnblogs.com/Trr-984688199/p/6180040.html)
+[typeof与instanceof的区别](https://www.cnblogs.com/Trr-984688199/p/6180040.html)  
+
+[typeof null 为什么等于 object?](https://www.cnblogs.com/wzybnzy/p/7232618.html?tdsourcetag=s_pcqq_aiomsg)
