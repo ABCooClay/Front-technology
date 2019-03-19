@@ -18,4 +18,6 @@
 
 [typeof与instanceof的区别](https://www.cnblogs.com/Trr-984688199/p/6180040.html)  
 
-[typeof null 为什么等于 object?](https://www.cnblogs.com/wzybnzy/p/7232618.html?tdsourcetag=s_pcqq_aiomsg)
+[typeof null 为什么等于 object?](https://www.cnblogs.com/wzybnzy/p/7232618.html?tdsourcetag=s_pcqq_aiomsg)  
+
+[为什么用Object.prototype.toString.call(obj)检测对象类型?](https://www.cnblogs.com/youhong/p/6209054.html)
