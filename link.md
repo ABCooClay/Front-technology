@@ -20,4 +20,12 @@
 
 [typeof null 为什么等于 object?](https://www.cnblogs.com/wzybnzy/p/7232618.html?tdsourcetag=s_pcqq_aiomsg)  
 
-[为什么用Object.prototype.toString.call(obj)检测对象类型?](https://www.cnblogs.com/youhong/p/6209054.html)
+[为什么用Object.prototype.toString.call(obj)检测对象类型?](https://www.cnblogs.com/youhong/p/6209054.html)  
+
+[JS显性数据类型转换和隐性数据类型转换](https://blog.csdn.net/gnail_oug/article/details/53135603)  
+
+[理解Object.defineProperty的作用](https://segmentfault.com/a/1190000007434923)  
+
+[深入理解 js this 绑定](https://segmentfault.com/a/1190000011194676#articleHeader13)  
+
+[深入理解 TypeScript](https://jkchao.github.io/typescript-book-chinese/)
