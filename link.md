@@ -28,4 +28,6 @@
 
 - [深入理解 js this 绑定](https://segmentfault.com/a/1190000011194676#articleHeader13)  
 
-- [深入理解 TypeScript](https://jkchao.github.io/typescript-book-chinese/)
+- [深入理解 TypeScript](https://jkchao.github.io/typescript-book-chinese/)  
+
+- [JavaScript中作用域和作用域链的简单理解（变量提升）](https://www.cnblogs.com/buchongming/p/5858026.html)
