@@ -30,4 +30,14 @@
 
 - [深入理解 TypeScript](https://jkchao.github.io/typescript-book-chinese/)  
 
-- [JavaScript中作用域和作用域链的简单理解（变量提升）](https://www.cnblogs.com/buchongming/p/5858026.html)
+- [JavaScript中作用域和作用域链的简单理解（变量提升）](https://www.cnblogs.com/buchongming/p/5858026.html)  
+
+- [详细图解作用域链与闭包](https://www.jianshu.com/p/21a16d44f150)  
+
+- [JS 原型与原型链终极详解1](https://www.jianshu.com/p/dee9f8b14771)
+
+- [JS 原型与原型链终极详解2](https://www.jianshu.com/p/652991a67186)
+
+- [JS 原型与原型链终极详解3](https://www.jianshu.com/p/a4e1e7b6f4f8)  
+
+- [js中的事件委托或是事件代理详解](https://www.cnblogs.com/liugang-vip/p/5616484.html)
