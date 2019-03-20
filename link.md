@@ -41,3 +41,5 @@
 - [JS 原型与原型链终极详解3](https://www.jianshu.com/p/a4e1e7b6f4f8)  
 
 - [js中的事件委托或是事件代理详解](https://www.cnblogs.com/liugang-vip/p/5616484.html)
+
+- [深拷贝的终极探索](https://juejin.im/post/5bc1ae9be51d450e8b140b0c)
