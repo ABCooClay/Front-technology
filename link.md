@@ -43,3 +43,5 @@
 - [js中的事件委托或是事件代理详解](https://www.cnblogs.com/liugang-vip/p/5616484.html)
 
 - [深拷贝的终极探索](https://juejin.im/post/5bc1ae9be51d450e8b140b0c)
+
+- [js 字符串操作函数](https://www.cnblogs.com/guoyeqiang/p/8178336.html)
