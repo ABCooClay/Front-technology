@@ -45,3 +45,9 @@
 - [深拷贝的终极探索](https://juejin.im/post/5bc1ae9be51d450e8b140b0c)
 
 - [js 字符串操作函数](https://www.cnblogs.com/guoyeqiang/p/8178336.html)
+
+- [React 生命周期图解](http://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/)
+
+- [React Fiber架构](https://zhuanlan.zhihu.com/p/37095662)
+
+- [一篇全面的CSS布局学习指南](https://juejin.im/post/5b3b56a1e51d4519646204bb#heading-43)
